@@ -283,7 +283,7 @@ a {
 
 /* Адаптация */
 /* Для смартфонов */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .top-bar{
         flex-direction: column;
         text-align: center;
@@ -349,10 +349,10 @@ a {
         text-align: center;
     }
 }
-
+ */
 /* Для очень маленьких экранов */
-@media (max-width: 375px){
+/* @media (max-width: 375px){
     .main-content p, .top-slogan{
         font-size: 14px;
     }
-}
+} */
